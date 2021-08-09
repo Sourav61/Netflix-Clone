@@ -2,7 +2,7 @@
 
 Check out deployed version of Netflix-Clone at Heroku: https://netflixclone9.herokuapp.com/
 
-This clone is made taking reference to this amazing Playlist: 
+<h2>This clone is made taking reference to this amazing Playlist: </h2>
 
 Part-1 : https://youtu.be/7IXWKs9Bo7A
 
